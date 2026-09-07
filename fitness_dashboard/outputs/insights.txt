@@ -1,0 +1,7 @@
+KEY INSIGHTS FROM FITNESS DATA ANALYSIS
+=============================================
+
+1. 'HIIT' burns the most calories on average (561.8 kcal/session).
+2. Session duration and calories burned are strongly correlated (r=0.57).
+3. Advanced members (level 3) work out 4.5 days/week on average, vs 2.5 days/week for beginners.
+4. Average fat percentage: Male 20.2%, Female 28.2%.
